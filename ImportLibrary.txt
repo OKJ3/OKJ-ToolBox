@@ -23,6 +23,10 @@ import unicodedata
 import wx
 import wx.adv
 import zipfile
+import win32con
+import win32gui
+import win32api
+import win32process
 
 Import library - MemoryGrepMan
 import glob
