@@ -4,4 +4,4 @@
 詳細は [LICENSE](./LICENSE) を参照してください。
 
 ## 使い方
-OKJ-ToolBox.7z.001～004を選択して、7zipで解凍してください。
+OKJ-ToolBox.7z.001～003を選択して、7zipで解凍してください。
