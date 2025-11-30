@@ -1,7 +1,6 @@
 import chardet
 import ctypes
 import ctypes.wintypes
-import cv2
 import datetime
 import glob
 import joblib
