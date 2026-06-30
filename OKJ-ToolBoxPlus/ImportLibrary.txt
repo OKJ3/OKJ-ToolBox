@@ -1,0 +1,16 @@
+csv
+io
+matplotlib.backends.backend_wxagg
+matplotlib.figure
+matplotlib.ticker
+numpy
+os
+pandas
+PIL
+re
+scipy.io
+time
+win32clipboard
+wx
+wx.dataview
+wx.lib.scrolledpanel
