@@ -20,6 +20,3 @@
 各ライセンスの全文は third_party_licenses フォルダをご参照ください。
 
 ---
-
-## 使い方
-OKJ-ToolBoxPlus.7z.001～00Xを選択して、7zipで解凍してください。
